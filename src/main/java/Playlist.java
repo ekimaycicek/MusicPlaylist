@@ -31,7 +31,6 @@ public class Playlist {
 
 
 
-
             if (vote == 1) {
                 System.out.print("Enter the song you want to add: ");
                 String song = input.nextLine();
