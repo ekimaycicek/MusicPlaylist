@@ -22,8 +22,7 @@ public class Playlist {
             System.out.println("4. Exit");
             System.out.print("Make your choice: ");
             int vote = input.nextInt();
-            input.nextLine(); 
-
+            input.nextLine();
 
 
             if (vote == 1) {
